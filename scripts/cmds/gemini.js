@@ -2,7 +2,7 @@ module.exports = {
   akane: {
     name: "gemini",
     permission: 0,
-    author: "Jisun Hosen Rakib" 
+    author: "Deku", //https://facebook.com/joshg101
     description: "Talk to Gemini (conversational)",
     prefix: false,
     category: "AI",
