@@ -1,5 +1,5 @@
 module.exports = {
-  akane: {
+  config: {
     name: "gemini",
     permission: 0,
     author: "Deku", //https://facebook.com/joshg101
